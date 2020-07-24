@@ -1,4 +1,4 @@
-# Words2Vectorbo
+# Words2Vector project
 
 This project give a great analysis for represnting words in language to your choosing, as vector. clone the project and choose a big enough corpus (i.e. a book with more than 200 pages) as resource, assuming it is represnts the words distribution in the language.<br>
 
